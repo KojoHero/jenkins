@@ -1,0 +1,25 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-11-09 14:49:18.746 UTC</timestamp>
+  <md5sum>217aebc93b2c3fefeb56fb1e83ea8ab3</md5sum>
+  <fileName>org.apache.maven.surefire:common-junit48-2.19.1.jar</fileName>
+  <usages>
+    <entry>
+      <string>AddJob(Local)</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>AddJob(Local)/Com_Platform:Community_Platform</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>FIRST/Com_Platform:Community_Platform</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>FIRST</string>
+      <ranges>1-2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

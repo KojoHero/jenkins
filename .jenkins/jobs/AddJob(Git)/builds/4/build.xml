@@ -1,0 +1,215 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>godsway</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.plugins.git.util.BuildData plugin="git@4.4.5">
+      <buildsByBranchName>
+        <entry>
+          <string>refs/remotes/origin/main</string>
+          <hudson.plugins.git.util.Build>
+            <marked plugin="git-client@3.5.1">
+              <sha1>68a3d7ce5153766e1bbfc67726f49d1d7c3d3bb2</sha1>
+              <branches class="list">
+                <hudson.plugins.git.Branch>
+                  <sha1 reference="../../../sha1"/>
+                  <name>refs/remotes/origin/main</name>
+                </hudson.plugins.git.Branch>
+              </branches>
+            </marked>
+            <revision reference="../marked"/>
+            <hudsonBuildNumber>4</hudsonBuildNumber>
+          </hudson.plugins.git.util.Build>
+        </entry>
+      </buildsByBranchName>
+      <lastBuild reference="../buildsByBranchName/entry/hudson.plugins.git.util.Build"/>
+      <scmName></scmName>
+      <remoteUrls>
+        <string>https://github.com/KojoHero/Addjob_Automation.git</string>
+      </remoteUrls>
+    </hudson.plugins.git.util.BuildData>
+    <hudson.plugins.git.GitTagAction plugin="git@4.4.5">
+      <tags class="hudson.util.CopyOnWriteMap$Tree">
+        <entry>
+          <string>refs/remotes/origin/main</string>
+          <list/>
+        </entry>
+      </tags>
+      <ws>C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\AddJob(Git)</ws>
+    </hudson.plugins.git.GitTagAction>
+    <hudson.scm.SCMRevisionState_-None/>
+    <net.masterthought.jenkins.SafeArchiveServingRunAction plugin="cucumber-reports@5.3.1">
+      <fileChecksums>
+        <entry>
+          <string>css/bootstrap.min.css</string>
+          <string>785c589fce13923f0044cbfa2483ef409beebc76</string>
+        </entry>
+        <entry>
+          <string>report-tag_729070768.html</string>
+          <string>ee009d28cee4f2fb74d45b1538196604de4886bc</string>
+        </entry>
+        <entry>
+          <string>css/font-awesome.min.css</string>
+          <string>546e17bad09ff6ef66d22c46b07151e5a647c6bb</string>
+        </entry>
+        <entry>
+          <string>js/Chart.min.js</string>
+          <string>2b53ec1de73788e2b72f23af654bbb52fce5991c</string>
+        </entry>
+        <entry>
+          <string>report-tag_841126981.html</string>
+          <string>d32301f6ef12115d8ba335d55b78f5e7b027221a</string>
+        </entry>
+        <entry>
+          <string>fonts/fontawesome-webfont.woff</string>
+          <string>02866b1bc5eced0f39c98774d7dc43f55e3f96e4</string>
+        </entry>
+        <entry>
+          <string>overview-tags.html</string>
+          <string>531147b40f108205490c0ecddec91801fdfefbd7</string>
+        </entry>
+        <entry>
+          <string>overview-trends.html</string>
+          <string>9e59029fd5f6840599b6d884d15693d8deb3ccf9</string>
+        </entry>
+        <entry>
+          <string>css/cucumber.css</string>
+          <string>73244315c966d1b9d449801105d4a62c4f98d9b3</string>
+        </entry>
+        <entry>
+          <string>js/jquery.tablesorter.min.js</string>
+          <string>2503fbdd2373b0fd919964f05d7c1cd21c0eea7e</string>
+        </entry>
+        <entry>
+          <string>overview-features.html</string>
+          <string>0ff2fc65fadca082cfd04e2a70c4b02cd8ba667c</string>
+        </entry>
+        <entry>
+          <string>fonts/FontAwesome.otf</string>
+          <string>4fd648f4b5160f2ccff6cb7dcc4369b65c46b41c</string>
+        </entry>
+        <entry>
+          <string>overview-steps.html</string>
+          <string>99ffa7c761092a7e75ee99fd2e2854a50e856ca7</string>
+        </entry>
+        <entry>
+          <string>fonts/fontawesome-webfont.svg</string>
+          <string>df25a11e42696ec219f33fe919399d83d64dfad4</string>
+        </entry>
+        <entry>
+          <string>images/favicon.png</string>
+          <string>c809dc60a310c87582db67dbff1fcb3168c7c0d0</string>
+        </entry>
+        <entry>
+          <string>report-tag_2445141076.html</string>
+          <string>440c212cc0273a2d396fca56d9da2be6aa237f0d</string>
+        </entry>
+        <entry>
+          <string>fonts/fontawesome-webfont.ttf</string>
+          <string>b1c6596882a1c6510cf93630ea4cb5473f6afd46</string>
+        </entry>
+        <entry>
+          <string>report-tag_3142964395.html</string>
+          <string>494aea29de448ced889c6f673c63d936fbb2fbaf</string>
+        </entry>
+        <entry>
+          <string>js/bootstrap.min.js</string>
+          <string>85d693ecb21a5d8fb3b14f8226adfaed43e365de</string>
+        </entry>
+        <entry>
+          <string>report-tag_1126357283.html</string>
+          <string>b8373831dff5678907bf810e547d65ec8e23e3be</string>
+        </entry>
+        <entry>
+          <string>report-feature_3746781558.html</string>
+          <string>57c6b57dcc8a6a5921b2d8766f1334c399e2a2e3</string>
+        </entry>
+        <entry>
+          <string>fonts/glyphicons-halflings-regular.svg</string>
+          <string>c9607944ac6b2525dca50a2d511f506d21eb02c3</string>
+        </entry>
+        <entry>
+          <string>fonts/glyphicons-halflings-regular.woff</string>
+          <string>63617ff0a2dea4977236ccd33493bf9c8f085a03</string>
+        </entry>
+        <entry>
+          <string>fonts/glyphicons-halflings-regular.ttf</string>
+          <string>976965ed10a66b50ca0144cca10f415a8633c24d</string>
+        </entry>
+        <entry>
+          <string>js/moment.min.js</string>
+          <string>e18f8456652c3a3a50004432600e04d61645d6b9</string>
+        </entry>
+        <entry>
+          <string>overview-failures.html</string>
+          <string>49e10f868ccf0daa70b87a939622aa01ae421cb6</string>
+        </entry>
+        <entry>
+          <string>fonts/glyphicons-halflings-regular.eot</string>
+          <string>34eab648e8a796f38d21d47d3c391ab7774f1b76</string>
+        </entry>
+        <entry>
+          <string>fonts/fontawesome-webfont.woff2</string>
+          <string>2dfb067eec1c9bba197704dc2491c4f9d3f3f160</string>
+        </entry>
+        <entry>
+          <string>js/jquery.min.js</string>
+          <string>a88cf369625d8dc1d37faf25adb429cffb0f0761</string>
+        </entry>
+        <entry>
+          <string>fonts/fontawesome-webfont.eot</string>
+          <string>15eb795edb714659a5915eaacc9eaf8837401d5e</string>
+        </entry>
+        <entry>
+          <string>fonts/glyphicons-halflings-regular.woff2</string>
+          <string>1721e2c77c5304d6ab9a14e22ea045dff832f746</string>
+        </entry>
+      </fileChecksums>
+      <rootDir>C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\jobs\AddJob(Git)\builds\4\cucumber-html-reports</rootDir>
+      <urlName>cucumber-html-reports</urlName>
+      <indexFile>overview-features.html</indexFile>
+      <iconName>/plugin/cucumber-reports/icon.png</iconName>
+      <title>Cucumber reports</title>
+      <safeExtensions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
+        <c class="java.util.Arrays$ArrayList">
+          <a class="string-array"/>
+        </c>
+        <list class="java.util.Arrays$ArrayList" reference="../c"/>
+      </safeExtensions>
+      <safeDirectories class="java.util.Collections$UnmodifiableSet">
+        <c class="set">
+          <file>C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\jobs\AddJob(Git)\builds\4\cucumber-html-reports\css</file>
+          <file>C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\jobs\AddJob(Git)\builds\4\cucumber-html-reports\images</file>
+          <file>C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\jobs\AddJob(Git)\builds\4\cucumber-html-reports\js</file>
+          <file>C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\jobs\AddJob(Git)\builds\4\cucumber-html-reports\fonts</file>
+          <file>C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\jobs\AddJob(Git)\builds\4\cucumber-html-reports</file>
+        </c>
+      </safeDirectories>
+      <run class="build" reference="../../.."/>
+      <directorySuffix></directorySuffix>
+    </net.masterthought.jenkins.SafeArchiveServingRunAction>
+  </actions>
+  <queueId>5</queueId>
+  <timestamp>1605685554766</timestamp>
+  <startTime>1605685554787</startTime>
+  <result>SUCCESS</result>
+  <duration>6765</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\WINDOWS\system32\config\systemprofile\AppData\Local\Jenkins\.jenkins\workspace\AddJob(Git)</workspace>
+  <hudsonVersion>2.249.3</hudsonVersion>
+  <scm class="hudson.plugins.git.GitChangeLogParser" plugin="git@4.4.5">
+    <authorOrCommitter>false</authorOrCommitter>
+    <showEntireCommitSummaryInChanges>true</showEntireCommitSummaryInChanges>
+  </scm>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

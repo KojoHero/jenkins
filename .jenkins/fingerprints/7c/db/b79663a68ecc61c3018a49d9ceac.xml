@@ -1,0 +1,25 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-11-09 14:49:24.462 UTC</timestamp>
+  <md5sum>7cdbb79663a68ecc61c3018a49d9ceac</md5sum>
+  <fileName>com.vimalselvam:cucumber-extentsreport-2.0.4.jar</fileName>
+  <usages>
+    <entry>
+      <string>AddJob(Local)</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>AddJob(Local)/Com_Platform:Community_Platform</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>FIRST/Com_Platform:Community_Platform</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>FIRST</string>
+      <ranges>1-2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
